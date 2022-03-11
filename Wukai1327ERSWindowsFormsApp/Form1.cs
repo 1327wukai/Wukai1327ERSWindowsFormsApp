@@ -142,13 +142,13 @@ namespace Wukai1327ERSWindowsFormsApp
         private void treeView1_AfterSelect(object sender, TreeViewEventArgs e)
         {
             TreeNode currNode = e.Node;
-            if (tvRootNode == currNode)
+            if (tvRootNode == currNode) 
             {
                 InitalizeListControl();
                 statusBarPanel1.Text = "Double click the Employee Records";
                 return;
             }
-            else
+            else 
             {
                 statusBarPanel1.Text = "Click an Employee code to view individual record";
             }
