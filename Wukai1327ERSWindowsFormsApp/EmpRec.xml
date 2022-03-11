@@ -1,26 +1,24 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?> 
 <EmpRecordsData>
-	<Ecode Id="E001" EmplyoeeName="Michael Preey ">
+	<Ecode Id="E001" EmplyoeeName="wukai1 ">
 	<EmpDetails DateOfJoin= "02-02-1999" Gread="A" Salary="1750"/>
-	</Ecode>
-	
-	<Ecode Id="E002" EmplyoeeName="Jenifer carell ">
+	</Ecode>	
+	<Ecode Id="E002" EmplyoeeName="wukai2 ">
 	<EmpDetails DateOfJoin= "03-22-1000" Gread="B" Salary="2500"/>
 	</Ecode>
-
-	<Ecode Id="E003" EmplyoeeName="George Rice">
+	<Ecode Id="E003" EmplyoeeName="wukai3">
 	<EmpDetails DateOfJoin= "04-18-1999" Gread="A" Salary="1800"/>
 	</Ecode>
-	<Ecode Id="E004" EmplyoeeName="Pamela Griffin">
+	<Ecode Id="E004" EmplyoeeName="wukai4">
 	<EmpDetails DateOfJoin= "04-27-1999" Gread="E" Salary="7000"/>
 	</Ecode>
-	<Ecode Id="E0005" EmployeeName="Simon Watson">
+	<Ecode Id="E0005" EmployeeName="wukai5">
 	<EmpDetails DateOfJoin="05-03-1999" Grade="A" Salary="1650"/>
 	</Ecode>
-	<Ecode Id="E0006" EmployeeName="Daniel Allison">
+	<Ecode Id="E0006" EmployeeName="wukai6">
 	<EmpDetails DateOfJoin="05-13-1999" Grade="D" Salary="5700" />
 	</Ecode>
-	<Ecode Id="E0007" EmployeeName="Laura Hansen">
+	<Ecode Id="E0007" EmployeeName="wukai7">
 	<EmpDetails DateOfJoin="06-02-1999" Grade="c" Salary="4150" />
 	</Ecode>
 	<Ecode Id="E0008" EmployeeName="Sarah Judd">
